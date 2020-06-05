@@ -5,7 +5,7 @@ Garbage collection application developed during Next Level Week
 
 This project was developed with the following technologies:
 
-Node.js
-React
-React Native
-TypeScript
+Node.js,
+React,
+React Native,
+TypeScript.
