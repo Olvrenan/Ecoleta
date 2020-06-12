@@ -1,11 +1,8 @@
-# ecoleta
-Garbage collection application developed during Next Level Week 
+<div align="center">
+  <h1>
+    :recycle: <i>ecoleta</i>
+  </h1>
 
-#Technologies
-
-This project was developed with the following technologies:
-
-Node.js,
-React,
-React Native,
-TypeScript.
+  <p>
+    Garbage collection application developed during Next Level Week
+  </p>
